@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Minecraft Bedrock",
+        "version": "Version: 1.18.31",
+        "changelogURL": "https://raw.githubusercontent.com/JVMFrog/Minecraft-Changeloges/master/English/Minecraft-Bedrock/Realeses/1-18-31.md",
+        "imageURL": "https://theme.zdassets.com/theme_assets/2155033/e31e57a9e728439e7b4e595ac626e51fdd648f40.png"
+    },
+    {
+        "title": "Minecraft Bedrock",
+        "version": "Version: 1.18.30",
+        "changelogURL": "https://raw.githubusercontent.com/JVMFrog/Minecraft-Changeloges/master/English/Minecraft-Bedrock/Realeses/1-18-30.md",
+        "imageURL": "https://feedback.minecraft.net/hc/article_attachments/5521364040461/village.png"
+    },
+    {
+        "title": "Minecraft Bedrock",
+        "version": "Version: 1.18.12",
+        "changelogURL": "https://raw.githubusercontent.com/JVMFrog/Minecraft-Changeloges/master/English/Minecraft-Bedrock/Realeses/1-18-12.md",
+        "imageURL": "https://theme.zdassets.com/theme_assets/2155033/e31e57a9e728439e7b4e595ac626e51fdd648f40.png"
+    },
+    {
+        "title": "Minecraft Bedrock",
+        "version": "Version: 1.18.11",
+        "changelogURL": "https://raw.githubusercontent.com/JVMFrog/Minecraft-Changeloges/master/English/Minecraft-Bedrock/Realeses/1-18-11.md",
+        "imageURL": "https://theme.zdassets.com/theme_assets/2155033/e31e57a9e728439e7b4e595ac626e51fdd648f40.png"
+    },
+    {
+        "title": "Minecraft Bedrock",
+        "version": "Version: 1.18.10",
+        "changelogURL": "https://raw.githubusercontent.com/JVMFrog/Minecraft-Changeloges/master/English/Minecraft-Bedrock/Realeses/1-18-10.md",
+        "imageURL": "https://feedback.minecraft.net/hc/article_attachments/4424095477133/golem.jpg"
+    }
+]
